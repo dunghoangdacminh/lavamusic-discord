@@ -3,6 +3,7 @@
 # LAVA MUSIC 
 
 > Made with the [**Lavalink**](https://github.com/freyacodes/Lavalink) Wrapper [Erela.js](https://erelajs-docs.netlify.app/docs/gettingstarted.html) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.dev) if u want to support me, then please [invite](https://lava.milrato.dev) him!**
+> Slash commands are not working at the moment.
 
 ## Features:
 ✓ Auto resume
@@ -26,6 +27,12 @@
 ✓ Works on Replit.com and any vps, with public & private Lavalink Nodes
 
 <br/>
+
+## Requirements
+1. Nodejs [v18](https://nodejs.org/en/blog/release/v18.18.0) or later.
+2. Discord Bot - create in [Discord Developer Portal](https://discord.dev)
+3. Lavalink v3
+4. Spotify Client ID and Secret.
 
 ## How to use
 1. Clone this repository
